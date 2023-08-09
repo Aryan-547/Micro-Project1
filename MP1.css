@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Lato:wght@300;400&family=Noto+Sans+JP:wght@100&family=Noto+Sans+SC:wght@100&family=Open+Sans:wght@400;500&family=Playfair+Display:ital@1&family=Raleway:wght@200;800&display=swap');
+
+.flexbox{
+    width: 100vw;
+    height: 70vh;
+    background-color: #ffcd9e;
+    display: flex
+    
+}
+
+.flexbox2{
+    width: 100vw;
+    height: 30vh;
+    background-color: #282828;
+    display: flex;
+}
+
+.one{
+    margin: 50px 200px 50px 100px;
+    font-family: sans-serif;
+
+}
+
+p{
+    color: #484848;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+}
+
+.position{
+    font-size: 13px ;
+    color: white;
+    position: fixed; 
+    
+}
+
+.two{
+    justify-content: center;
+    margin: 0px 100px 0px 0px;
+
+}
+button{
+    color: white;
+    background-color: darkslategrey;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+}
+
+input{
+    border: 2px solid black;
+    background-color: white;
+    padding: 0px 0px 0px 20px;
+    border-radius: 10px;
+    height: 35px;
+    width: 200px;
+}
+
+ul.no-bullets {
+    margin: 12px 30px 40px 100px;
+    list-style-type: none;
+    color: #FFF;
+    font-family: sans-serif;
+    
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%; 
+  }
+
+
+.four{
+    color: white;
+    text-align: right;
+    margin: 18px 30px 30px 550px;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%; 
+}
